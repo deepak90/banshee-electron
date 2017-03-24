@@ -103,3 +103,17 @@ body {
 .navbar-right {
     margin-right: 15px
 }
+@media (min-width: 768px) {
+    .navbar .navbar-brand {
+        padding: 20px 15px;
+    }
+}
+@media (max-width: 1199px) {
+    .navbar-collapse .navbar-nav {
+        display: flex;
+    }
+    .navbar-collapse .navbar-nav li {
+        flex: 1;
+    }
+}
+
