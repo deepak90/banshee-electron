@@ -1,0 +1,14 @@
+{
+  "name": "banshee-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-material-design": "^0.5.10"
+  }
+}
